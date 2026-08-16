@@ -86,47 +86,6 @@ A mobile-first consumer AI product that turns fridge inventory and ingredient im
 
 [Explore repository →](https://github.com/yasmin0528/FridgeMate)
 
-</td>
-<td width="50%" valign="top">
-
-### 👤 [POSE2ID-optimized](https://github.com/yasmin0528/POSE2ID-optimized)
-
-**Pose-based Person Re-identification Research**
-
-Computer Vision research work around pose-informed person retrieval and ReID model optimization.
-
-- Reproduces and investigates modern person Re-identification approaches
-- Works with pose cues, deep visual features, and benchmark evaluation
-- Focuses on implementation details, performance tuning, and experimental rigor
-- Bridges paper reading with runnable research code
-
-`Python` `PyTorch` `Computer Vision` `Person ReID` `Deep Learning`
-
-[Explore repository →](https://github.com/yasmin0528/POSE2ID-optimized)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 [RDE](https://github.com/yasmin0528/RDE)
-
-**Text-to-Image Person Search**
-
-A vision-language person retrieval project based on CVPR research in noisy-correspondence learning.
-
-- Searches people across text and image modalities
-- Studies text-image alignment under imperfect training correspondences
-- Works with deep retrieval pipelines and person ReID evaluation
-- A practical exploration of multimodal representation learning
-
-`Python` `PyTorch` `Vision-Language` `Person Retrieval` `Computer Vision`
-
-[Explore repository →](https://github.com/yasmin0528/RDE)
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚡ More Prototypes, Always
 
