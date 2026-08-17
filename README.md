@@ -2,7 +2,7 @@
 
 # Hi, I'm Yasmin 👋
 
-### CS @ Tongji University · AI Builder
+### CS @ Tongji University
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+LLM+Agents;Exploring+Brain-inspired+AI;Creating+AI-powered+Products;Working+with+RAG+%26+Multimodal+AI;Turning+ideas+into+prototypes" alt="Typing SVG" />
 
