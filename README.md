@@ -86,7 +86,12 @@ A mobile-first consumer AI product that turns fridge inventory and ingredient im
 
 [Explore repository →](https://github.com/yasmin0528/FridgeMate)
 
+</td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+  
 ### ⚡ More Prototypes, Always
 
 **Build fast. Learn deeply. Ship clearly.**
