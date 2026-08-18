@@ -2,29 +2,25 @@
 
 # Hi, I'm Yasmin 👋
 
-### CS @ Tongji University
+### CS @ Tongji University · AI Builder · Full-stack Product Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+LLM+Agents;Exploring+Brain-inspired+AI;Creating+AI-powered+Products;Working+with+RAG+%26+Multimodal+AI;Turning+ideas+into+prototypes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Building+LLM+Agents+%26+RAG+Systems;Exploring+Brain-inspired+AI;Creating+AI-powered+Products;Turning+Ideas+into+Working+Prototypes" alt="Typing SVG" />
 
-<br />
-
-> **From research prototypes to real products — I build things that think.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-yasmin0528-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yasmin0528)
-[![Tongji University](https://img.shields.io/badge/Tongji%20University-Computer%20Science-7C3AED?style=flat-square)](https://www.tongji.edu.cn/)
+> **From models to products, I build things that think.**
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-- 🤖 Building AI-native products with **LLMs, RAG, Agents, and multimodal AI**
-- 🧠 Exploring intelligent decision systems and brain-inspired AI
-- 🛠️ A full-stack builder who enjoys taking ideas from zero to working prototypes
-- 👀 Researching and shipping in **Computer Vision**, retrieval, and intelligent interaction
-- ⚡ Drawn to hackathons: fast iteration, sharp demos, and products people can actually use
-- 🌱 Learning by building at the intersection of **AI research × product engineering**
+- 🎓 Computer Science undergraduate at **Tongji University**
+- 🤖 Building with **LLMs, RAG, Agents and Multimodal AI**
+- 🧠 Exploring **brain-inspired AI, GNNs and intelligent decision systems**
+- 🛠️ Enjoy turning ideas into **working end-to-end products**
+- 👀 Interested in **AI research × product design × software engineering**
+
+---
 
 ## 🚀 Featured Projects
 
@@ -32,138 +28,146 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Video-Agent](https://github.com/CH-information-processing/Video-Agent)
+### 🎬 Video Agent
 
 **Multimodal Video Knowledge Agent**
 
-An end-to-end pipeline that transforms video into structured, queryable knowledge for AI-powered learning and exploration.
+A multimodal knowledge assistant that turns videos into searchable, structured knowledge through **RAG + LLM Agents**.
 
-- Video → transcription → frames → multimodal knowledge graph → agent workflow
-- Uses **Whisper**, OpenCV, RAG-Anything / LightRAG, and LLM orchestration
-- Supports contextual QA, note generation, and MindMap-style knowledge organization
-- Built to make long-form video content searchable, explainable, and useful
+**Highlights**
+- Video transcription with Whisper
+- OpenCV frame extraction
+- RAG-based multimodal retrieval
+- Agent orchestration for QA, Notes & MindMap
 
-`Python` `LLM` `RAG` `Agent` `Multimodal AI` `Whisper` `OpenCV`
+**Stack**  
+`Python` `LLM` `RAG` `Agent` 
 
-[Explore repository →](https://github.com/CH-information-processing/Video-Agent)
+<a href="https://github.com/CH-information-processing/Video-Agent">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [PaperHub](https://github.com/NextGroup-Tongji-SE/Paperhub)
+### 📚 PaperHub
 
 **Full-stack Academic Community Platform**
 
-A cross-platform community product for researchers to publish ideas, discover academic content, and connect through rich interactions.
+A cross-platform academic community for sharing research notes, discovering content and supporting real-time interaction.
 
-- Academic content sharing with discipline tags, profiles, notes, and collections
-- Waterfall discovery feed, follows, likes, comments, mentions, messaging, and notifications
-- Secure authentication with access/refresh tokens and automatic session refresh
-- A complete product-engineering exercise across frontend, backend, data, and interaction design
+**Highlights**
+- Academic profiles, notes, collections & drafts
+- Nested comments and multi-user mentions
+- Optimistic updates + WebSocket synchronization
+- Full-stack mobile product architecture
 
-`Flutter` `Spring Boot` `MySQL` `Redis` `JWT` `Full-stack`
+**Stack**  
+`Flutter` `Spring Boot` `MySQL` `Redis` `WebSocket`
 
-[Explore repository →](https://github.com/NextGroup-Tongji-SE/Paperhub)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🥗 [FridgeMate](https://github.com/yasmin0528/FridgeMate)
-
-**AI-powered Smart Fridge & Recipe App**
-
-A mobile-first consumer AI product that turns fridge inventory and ingredient images into personalized cooking recommendations.
-
-- AI ingredient recognition from uploaded photos
-- **TF-IDF + cosine similarity** recommendation with health and cooking-time signals
-- Fridge inventory, recipe matching, cooking history, and check-in progression
-- Designed as a polished, interactive product—not just an algorithm demo
-
-`Next.js` `React` `TypeScript` `AI Vision` `Recommendation Systems`
-
-[Explore repository →](https://github.com/yasmin0528/FridgeMate)
+<a href="https://github.com/NextGroup-Tongji-SE/Paperhub">View Repository →</a>
 
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-  
-### ⚡ More Prototypes, Always
 
-**Build fast. Learn deeply. Ship clearly.**
+### 🥗 FridgeMate
 
-I enjoy working where research ideas become useful interfaces:
+**AI-powered Smart Fridge & Recipe Recommendation App**
 
-- LLM-powered intelligent agents
-- Multimodal retrieval and knowledge systems
-- AI-native productivity tools
-- Hackathon prototypes with a real product spine
+A mobile-first AI product for ingredient recognition, fridge management and personalized recipe recommendations.
 
-`AI Systems` `Product Thinking` `Rapid Prototyping`
+**Highlights**
+- AI-based ingredient recognition
+- Personalized recipe recommendation
+- TF-IDF + cosine similarity ranking
+- Cooking history and mobile-first interaction
 
-[See more on GitHub →](https://github.com/yasmin0528)
+**Stack**  
+`Next.js` `React` `TypeScript` `AI Vision`
+
+<a href="https://github.com/yasmin0528/FridgeMate">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Roadside Rescue Mini Program
+
+**Full-stack Roadside Assistance Mini Program**
+
+A full-stack roadside assistance mini-program connecting **rescue requests, location-based scenarios and service workflows** with a Java backend API.
+
+**Highlights**
+- WeChat Mini Program based rescue workflow
+- Location / map oriented roadside assistance scenarios
+- Rescue request and order-status workflow
+- Mini Program + backend API integrated development
+
+**Stack**  
+`WeChat Mini Program` `Java` `Backend API`
+
+<a href="https://github.com/yasmin0528/miniprogram-rescue">View Repository →</a>
 
 </td>
 </tr>
 </table>
 
+---
+
 ## 🧩 What I Build
 
-| AI Systems | AI Research | Product Engineering | Backend & Infra |
-| :-- | :-- | :-- | :-- |
-| LLM applications<br>RAG pipelines<br>Agent workflows<br>Multimodal AI | Brain-inspired AI<br>Computer Vision<br>Person ReID<br>Vision-language retrieval | Next.js & React<br>Vue 3<br>Flutter<br>TypeScript | Python services<br>Spring Boot<br>MySQL & Redis<br>WebSocket systems |
+<table>
+<tr>
+<td width="25%" align="center"><b>🤖 AI Systems</b><br><br>LLM<br>RAG<br>Agents<br>Multimodal AI</td>
+<td width="25%" align="center"><b>🧠 AI Research</b><br><br>GNN<br>Brain-inspired AI<br>Computer Vision<br>Person ReID</td>
+<td width="25%" align="center"><b>💻 Product Engineering</b><br><br>Flutter<br>Next.js<br>Vue3<br>TypeScript</td>
+<td width="25%" align="center"><b>⚙️ Backend & Infra</b><br><br>Spring Boot<br>MySQL<br>Redis<br>Python</td>
+</tr>
+</table>
 
-## ⚙️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,js,ts,vue,react,nextjs,flutter,mysql,redis,git,docker,linux&perline=15&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,js,ts,vue,react,nextjs,flutter,mysql,redis,git,docker,linux&perline=8" />
 
 </div>
 
-**AI stack:** `LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Agents` · `Multimodal AI` · `Computer Vision` · `Vision-Language Models`
+**AI Stack**  
+`LLM` · `Prompt Engineering` · `RAG` · `Embedding` · `Agent` · `Multimodal AI` · `GNN` · `Computer Vision`
+
+---
 
 ## 🔭 Currently Building
 
-- LLM-powered agents that can retrieve, reason, and act
-- Multimodal RAG pipelines for richer knowledge interaction
-- AI-native productivity tools with real product workflows
-- Research-to-product prototypes that are clear, useful, and demo-ready
+- Brain-inspired anti-money-laundering detection
+- LLM-powered intelligent agents
+- Multimodal RAG systems
+- AI-native product prototypes
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/yasmin0528">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasmin0528&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=22D3EE&text_color=64748B&rank_icon=github" alt="Yasmin's GitHub stats" />
-</a>
-<a href="https://github.com/yasmin0528">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin0528&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=64748B" alt="Top languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasmin0528&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin0528&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
-## 🐍 Contribution Trail
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yasmin0528/yasmin0528/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution snake animation" />
-<img src="https://raw.githubusercontent.com/yasmin0528/yasmin0528/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution snake animation" />
-
-</div>
+---
 
 ## 🤝 Let's Build Something
 
-I’m always interested in **AI Agents · Multimodal AI · Intelligent Products · Hackathons**.
+I'm always interested in **AI Agents · Multimodal AI · Intelligent Products · Hackathons**.
 
-If you’re building something ambitious, let’s make a sharp prototype together.
+If you're building something interesting, let's connect.
 
 <div align="center">
 
-<sub>Built with curiosity, caffeine, and a bias toward shipping.</sub>
+**Build things. Test ideas. Keep learning.**
 
 </div>
