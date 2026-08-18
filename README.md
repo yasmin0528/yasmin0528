@@ -149,17 +149,6 @@ A full-stack roadside assistance mini-program connecting **rescue requests, loca
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasmin0528&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin0528&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
 ## 🤝 Let's Build Something
 
 I'm always interested in **AI Agents · Multimodal AI · Intelligent Products · Hackathons**.
