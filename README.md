@@ -1,14 +1,12 @@
-<div align="center">
+<h1 align="center">Hi, I'm Yasmin 👋</h1>
 
-# Hi, I'm Yasmin 👋
+<p align="center">
+  <b>CS @ Tongji University · AI Builder · Full-stack Product Builder</b>
+</p>
 
-### CS @ Tongji University · AI Builder · Full-stack Product Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Building+LLM+Agents+%26+RAG+Systems;Exploring+Brain-inspired+AI;Creating+AI-powered+Products;Turning+Ideas+into+Working+Prototypes" alt="Typing SVG" />
-
-> **From models to products, I build things that think.**
-
-</div>
+<p align="center">
+  Building AI-native products from models to real user experiences.
+</p>
 
 ---
 
@@ -25,124 +23,157 @@
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🎬 Video Agent
+### ⛰️ [MountainLore · 贵品风物志](https://github.com/yasmin0528/MountainLore)
 
-**Multimodal Video Knowledge Agent**
+**AI-assisted Brand Archive & Creative Workspace**
 
-A multimodal knowledge assistant that turns videos into searchable, structured knowledge through **RAG + LLM Agents**.
+A workspace for small businesses, local producers and independent founders. It turns real-world materials—products, origins, people and craftsmanship—into confirmed brand archives, brand directions and concept assets.
 
 **Highlights**
-- Video transcription with Whisper
-- OpenCV frame extraction
-- RAG-based multimodal retrieval
-- Agent orchestration for QA, Notes & MindMap
 
-**Stack**  
-`Python` `LLM` `RAG` `Agent` 
+- Conversational field research with text and image inputs
+- Structured archive creation and review workflow
+- AI-generated brand directions and editable brand manuals
+- Public-web inspiration discovery with source and risk reminders
+- Concept material generation for merchandise and social content
 
-<a href="https://github.com/CH-information-processing/Video-Agent">View Repository →</a>
+`AI Agent` `Brand Design` `Full-stack` `Product Design`
+
+[View Repository →](https://github.com/yasmin0528/MountainLore)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 PaperHub
+### 🥗 [FridgeMate](https://github.com/yasmin0528/FridgeMate)
+
+**AI-powered Smart Fridge & Recipe App**
+
+A mobile-first AI product for ingredient recognition, fridge management and personalized recipe recommendations.
+
+**Highlights**
+
+- AI-based ingredient recognition
+- Personalized recipe recommendations
+- TF-IDF + cosine-similarity ranking
+- Cooking history and mobile-first interaction
+
+`Next.js` `React` `TypeScript` `AI Vision`
+
+[View Repository →](https://github.com/yasmin0528/FridgeMate)
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎬 [Video Agent](https://github.com/CH-information-processing/Video-Agent)
+
+**Multimodal Video Knowledge Agent**
+
+A multimodal knowledge assistant that turns videos into searchable, structured knowledge through RAG and LLM Agents.
+
+**Highlights**
+
+- Video transcription with Whisper
+- OpenCV frame extraction
+- RAG-based multimodal retrieval
+- Agent orchestration for Q&A, notes and mind maps
+
+`Python` `LLM` `RAG` `Agent`
+
+[View Repository →](https://github.com/CH-information-processing/Video-Agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [Roadside Rescue Mini Program](https://github.com/yasmin0528/miniprogram-rescue)
+
+**Full-stack Roadside Assistance Mini Program**
+
+A roadside-assistance mini program connecting rescue requests, location-based scenarios and service workflows with a Java backend.
+
+**Highlights**
+
+- WeChat Mini Program rescue workflow
+- Location and map-oriented service scenarios
+- Rescue requests and order-status tracking
+- Integrated frontend and backend API development
+
+`WeChat Mini Program` `Java` `Backend API`
+
+[View Repository →](https://github.com/yasmin0528/miniprogram-rescue)
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 📚 [PaperHub](https://github.com/NextGroup-Tongji-SE/Paperhub)
 
 **Full-stack Academic Community Platform**
 
 A cross-platform academic community for sharing research notes, discovering content and supporting real-time interaction.
 
 **Highlights**
-- Academic profiles, notes, collections & drafts
+
+- Academic profiles, notes, collections and drafts
 - Nested comments and multi-user mentions
-- Optimistic updates + WebSocket synchronization
+- Optimistic updates and WebSocket synchronization
 - Full-stack mobile product architecture
 
-**Stack**  
 `Flutter` `Spring Boot` `MySQL` `Redis` `WebSocket`
 
-<a href="https://github.com/NextGroup-Tongji-SE/Paperhub">View Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🥗 FridgeMate
-
-**AI-powered Smart Fridge & Recipe Recommendation App**
-
-A mobile-first AI product for ingredient recognition, fridge management and personalized recipe recommendations.
-
-**Highlights**
-- AI-based ingredient recognition
-- Personalized recipe recommendation
-- TF-IDF + cosine similarity ranking
-- Cooking history and mobile-first interaction
-
-**Stack**  
-`Next.js` `React` `TypeScript` `AI Vision`
-
-<a href="https://github.com/yasmin0528/FridgeMate">View Repository →</a>
+[View Repository →](https://github.com/NextGroup-Tongji-SE/Paperhub)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Roadside Rescue Mini Program
+### 🧠 AI Research & Reproduction
 
-**Full-stack Roadside Assistance Mini Program**
+Exploring computer vision, person re-identification, graph learning and brain-inspired intelligent systems.
 
-A full-stack roadside assistance mini-program connecting **rescue requests, location-based scenarios and service workflows** with a Java backend API.
+- [POSE2ID-optimized](https://github.com/yasmin0528/POSE2ID-optimized)
+- [Pose2ID](https://github.com/yasmin0528/Pose2ID)
+- [RDE](https://github.com/yasmin0528/RDE)
+- [Architecture Age & Style Recognition](https://github.com/yasmin0528/Paper_Replication--Understanding-architecture-age-and-style-through-deep-learning)
 
-**Highlights**
-- WeChat Mini Program based rescue workflow
-- Location / map oriented roadside assistance scenarios
-- Rescue request and order-status workflow
-- Mini Program + backend API integrated development
-
-**Stack**  
-`WeChat Mini Program` `Java` `Backend API`
-
-<a href="https://github.com/yasmin0528/miniprogram-rescue">View Repository →</a>
+`Python` `PyTorch` `Computer Vision` `GNN`
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
 ## 🧩 What I Build
 
-<table>
-<tr>
-<td width="25%" align="center"><b>🤖 AI Systems</b><br><br>LLM<br>RAG<br>Agents<br>Multimodal AI</td>
-<td width="25%" align="center"><b>🧠 AI Research</b><br><br>GNN<br>Brain-inspired AI<br>Computer Vision<br>Person ReID</td>
-<td width="25%" align="center"><b>💻 Product Engineering</b><br><br>Flutter<br>Next.js<br>Vue3<br>TypeScript</td>
-<td width="25%" align="center"><b>⚙️ Backend & Infra</b><br><br>Spring Boot<br>MySQL<br>Redis<br>Python</td>
-</tr>
-</table>
+| Direction | Focus |
+| --- | --- |
+| 🤖 AI Systems | LLM · RAG · Agents · Multimodal AI |
+| 🧠 AI Research | GNN · Brain-inspired AI · Computer Vision · Person ReID |
+| 💻 Product Engineering | Next.js · React · Flutter · Vue · TypeScript |
+| ⚙️ Backend & Infrastructure | Python · Java · Spring Boot · MySQL · Redis |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,js,ts,react,nextjs,vue,flutter,mysql,redis,git,docker,linux&perline=8" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,js,ts,vue,react,nextjs,flutter,mysql,redis,git,docker,linux&perline=8" />
-
-</div>
-
-**AI Stack**  
-`LLM` · `Prompt Engineering` · `RAG` · `Embedding` · `Agent` · `Multimodal AI` · `GNN` · `Computer Vision`
+**AI Stack:** `LLM` · `Prompt Engineering` · `RAG` · `Embedding` · `Agent` · `Multimodal AI` · `GNN` · `Computer Vision`
 
 ---
 
 ## 🔭 Currently Building
 
-- Brain-inspired anti-money-laundering detection
+- AI-powered brand and creative-product workflows
 - LLM-powered intelligent agents
 - Multimodal RAG systems
 - AI-native product prototypes
@@ -151,12 +182,6 @@ A full-stack roadside assistance mini-program connecting **rescue requests, loca
 
 ## 🤝 Let's Build Something
 
-I'm always interested in **AI Agents · Multimodal AI · Intelligent Products · Hackathons**.
+I'm always interested in **AI Agents · Multimodal AI · Intelligent Products · Open Source · Hackathons**.
 
-If you're building something interesting, let's connect.
-
-<div align="center">
-
-**Build things. Test ideas. Keep learning.**
-
-</div>
+> Build things. Test ideas. Keep learning.
