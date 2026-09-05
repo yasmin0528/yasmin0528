@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Yasmin 👋</h1>
 
 <p align="center">
-  <b>CS @ Tongji University · AI Builder · Full-stack Product Builder</b>
-</p>
-
-<p align="center">
-  Building AI-native products from models to real user experiences.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=AI-native+Product+Builder;Building+MountainLore+%E2%80%94+AI+Brand+Workspace;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Multimodal+AI" alt="Typing SVG" />
 </p>
 
 ---
@@ -140,7 +136,6 @@ Exploring computer vision, person re-identification, graph learning and brain-in
 - [POSE2ID-optimized](https://github.com/yasmin0528/POSE2ID-optimized)
 - [Pose2ID](https://github.com/yasmin0528/Pose2ID)
 - [RDE](https://github.com/yasmin0528/RDE)
-- [Architecture Age & Style Recognition](https://github.com/yasmin0528/Paper_Replication--Understanding-architecture-age-and-style-through-deep-learning)
 
 `Python` `PyTorch` `Computer Vision` `GNN`
 
