@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Yasmin 👋</h1>
 
 <p align="center">
+  <b>CS @ Tongji University · CS Student</b>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=AI-native+Product+Builder;Building+MountainLore+%E2%80%94+AI+Brand+Workspace;LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Multimodal+AI" alt="Typing SVG" />
 </p>
 
